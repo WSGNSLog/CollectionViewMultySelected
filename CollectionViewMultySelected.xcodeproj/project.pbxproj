@@ -18,6 +18,7 @@
 		E5A115D71EA9E33B00DA3305 /* MyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E5A115D61EA9E33B00DA3305 /* MyCell.m */; };
 		E5A115DA1EA9E34B00DA3305 /* MyCellModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E5A115D91EA9E34B00DA3305 /* MyCellModel.m */; };
 		E5A115DD1EA9E35F00DA3305 /* MySectionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E5A115DC1EA9E35F00DA3305 /* MySectionModel.m */; };
+		E5A115DF1EA9FDD000DA3305 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E5A115DE1EA9FDD000DA3305 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		E5A115D91EA9E34B00DA3305 /* MyCellModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCellModel.m; sourceTree = "<group>"; };
 		E5A115DB1EA9E35F00DA3305 /* MySectionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MySectionModel.h; sourceTree = "<group>"; };
 		E5A115DC1EA9E35F00DA3305 /* MySectionModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MySectionModel.m; sourceTree = "<group>"; };
+		E5A115DE1EA9FDD000DA3305 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				E5A115A61EA9E2DC00DA3305 /* AppDelegate.m */,
 				E5A115A81EA9E2DC00DA3305 /* ViewController.h */,
 				E5A115A91EA9E2DC00DA3305 /* ViewController.m */,
+				E5A115DE1EA9FDD000DA3305 /* ViewController.xib */,
 				E5A115D51EA9E33B00DA3305 /* MyCell.h */,
 				E5A115D61EA9E33B00DA3305 /* MyCell.m */,
 				E5A115D81EA9E34B00DA3305 /* MyCellModel.h */,
@@ -266,6 +269,7 @@
 			files = (
 				E5A115B21EA9E2DC00DA3305 /* LaunchScreen.storyboard in Resources */,
 				E5A115AF1EA9E2DC00DA3305 /* Assets.xcassets in Resources */,
+				E5A115DF1EA9FDD000DA3305 /* ViewController.xib in Resources */,
 				E5A115AD1EA9E2DC00DA3305 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

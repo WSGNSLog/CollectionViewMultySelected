@@ -12,10 +12,10 @@
 #import "MySectionModel.h"
 
 @implementation MySectionModel
-- (NSArray *)itemsArr
+- (NSMutableArray *)itemsArr
 {
     if (!_itemsArr) {
-        _itemsArr = [NSArray array];
+        _itemsArr = [NSMutableArray array];
     }
     return _itemsArr;
 }

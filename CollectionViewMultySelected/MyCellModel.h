@@ -14,4 +14,6 @@
 
 @property (nonatomic,assign) BOOL isSelect;
 
+/** 被选中的次序 */
+@property (nonatomic,strong) NSIndexPath* indexPath;
 @end

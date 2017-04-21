@@ -12,5 +12,5 @@
 /** 分区头部名称 */
 @property (nonatomic,strong) NSString * secTimeTitle;
 /** 每个分组的数组 */
-@property (nonatomic,strong) NSArray * itemsArr;
+@property (nonatomic,strong) NSMutableArray * itemsArr;
 @end

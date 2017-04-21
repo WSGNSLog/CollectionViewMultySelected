@@ -39,6 +39,8 @@
         [self addSubview:self.selectBGImageV];
         _selectBGImageV.hidden = YES;
         
+        self.backgroundColor = [UIColor colorWithRed:0.0f green:0.0f blue:0.0f alpha:0.4];
+        
     }
     return self;
 }
